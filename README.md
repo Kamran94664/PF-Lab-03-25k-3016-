@@ -6,5 +6,5 @@
 ### Features
 1. Simple to use
 2. works on most computer
-3. Free to try
+3. Free to try\
 ***This is my First Project***
